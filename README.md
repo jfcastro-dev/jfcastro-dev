@@ -1,4 +1,7 @@
-### Currently Learning: :cloud:
+### Hi I'm James 
+I'm a recent grad from Stony Brook University looking to level up my programming.
+
+Currently Learning: AWS :cloud:
 <!--
 **jamescastro98/jamescastro98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
