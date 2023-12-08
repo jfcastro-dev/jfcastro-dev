@@ -7,7 +7,7 @@ I'm a Software Engineer @ Canon and former SDET for Endeavor. Currently I'm work
 ### What I'm likely doing right now
 
 ```mermaid
-flowchart TD
+flowchart LR
 
 A[Am I...]
 A --> B{{currently working on a project?}}
