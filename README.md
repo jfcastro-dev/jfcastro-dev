@@ -3,6 +3,7 @@ I'm a Software Engineer @ Canon and former SDET for Endeavor. Currently I'm work
 
 - 🔭 I’m currently working on a system for making tabletop RPG rulesets
 - 🌱 I’m currently learning Golang
+- 💬 Check out my latest blog post [here](https://jfcastro.dev)
 
 ### What I'm likely doing right now
 
