@@ -1,11 +1,12 @@
 ### Hi I'm James 
-I'm a Software Engineer @ Canon and former SDET for Endeavor. Currently I'm working with a lot of Node, TypeScript & Python, as well as learning go.
+I'm a Software Engineer @ Canon and former SDET @ Endeavor. Currently I'm working with a lot of Node, TypeScript & Python, as well as learning go.
 
+#### About Me
 - 🔭 I’m currently working on a system for making tabletop RPG rulesets
 - 🌱 I’m currently learning Golang
 - 💬 Check out my latest blog post [here](https://jfcastro.dev)
 
-### What I'm likely doing right now
+#### What I'm likely doing right now
 
 ```mermaid
 flowchart LR
