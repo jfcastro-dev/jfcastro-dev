@@ -2,7 +2,7 @@
 I'm a Software Engineer @ Canon and former SDET @ Endeavor. Currently I'm working with a lot of Node, TypeScript & Python, as well as learning go.
 
 ### About Me
-- 🌱 I'm currently building a discord bot to organize group calls.
+- 🌱 I'm currently creating a desktop widget to fetch Reddit RSS feeds.
 - 🎲 I'm currently playing Baldur's Gate 3
 - 💬 Check out my latest blog post [here](https://jfcastro.dev)
 
