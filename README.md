@@ -1,5 +1,5 @@
 ## Hi I'm James 
-I'm a Software Engineer @ Canon and former SDET @ Endeavor. Currently I'm working with a lot of Node, TypeScript & Python, as well as learning go.
+I'm a Software Engineer @ Holland & Knight and former engineer at Canon & Endeavor. Currently I'm working with a lot of Node, TypeScript & Python, as well as learning go.
 
 ### About Me
 - 🌱 I'm currently creating a desktop widget to fetch Reddit RSS feeds.
